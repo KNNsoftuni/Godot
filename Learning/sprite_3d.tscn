@@ -1,9 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://cmmvrs2i25nfp"]
-
-[ext_resource type="Texture2D" uid="uid://djusq1dux8yld" path="res://icon.svg" id="1_v377x"]
-
-[node name="Sprite3D" type="Sprite3D"]
-transform = Transform3D(0.26976, -0.0959569, 0.958135, -0.962571, 0.000210881, 0.27103, -0.0262093, -0.995385, -0.0923084, -66.3903, -13.5953, -29.4865)
-pixel_size = 1.1533
-billboard = 1
-texture = ExtResource("1_v377x")

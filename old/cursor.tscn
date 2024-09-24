@@ -1,4 +1,0 @@
-[gd_scene format=3 uid="uid://c6tr3qq3frjyy"]
-
-[node name="cursor" type="Area2D"]
-metadata/_edit_group_ = true
